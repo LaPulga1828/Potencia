@@ -15,5 +15,4 @@ Y= int(Y)
 Z = X ** Y
 
 #output
-print("\nResultados\n")
 print( str (X) + " elevado a " + str (Y) + " es igual a: " + str (Z))
